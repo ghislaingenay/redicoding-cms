@@ -42,7 +42,7 @@ You probably already know what technology could be used: <code class='md-code'>L
 
 > Split database up in to several instances that are only responsible for a part of the whole dataset
 
-<span class='md-alert'>This is also called <strong style='color: var(--text-clr);'>Horizontal Partitioning</strong> or <strong>Sharding</strong></span>
+<span class='md-alert'>This is also called Horizontal Partitioning or Sharding</span>
 
 Each database is called a Shard.
 
