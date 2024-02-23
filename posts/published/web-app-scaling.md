@@ -1,17 +1,17 @@
 ---
-title: 'Scaling a web application'
-description: 'I will explain how to scale an application using differents techniques'
-createdAt: '2024-02-10'
-topic: 'WEB_DEVELOPMENT'
+title: "Scaling a web application"
+description: "I will explain how to scale an application using differents techniques"
+createdAt: "2024-02-10"
+topic: "WEB_DEVELOPMENT"
 subTopic: null
-author: 'Ghislain Genay'
-updatedAt: 'xxxx-xx-xx'
-readTime: '2 min read'
+author: "Ghislain Genay"
+updatedAt: "xxxx-xx-xx"
+readTime: "2 min read"
 keywords: []
-tags: ['web-development']
-language: 'en'
-level: 'INTERMEDIATE'
-series: ''
+tags: ["web-development"]
+language: "en"
+level: "INTERMEDIATE"
+series: ""
 series_num: 1
 ---
 
@@ -42,7 +42,7 @@ You probably already know what technology could be used: <code class='md-code'>L
 
 > Split database up in to several instances that are only responsible for a part of the whole dataset
 
-<span class='md-alert'>This is also called <strong>Horizontal Partitioning</strong> or <strong>Sharding</strong></span>
+<span class='md-alert'>This is also called <strong style='color: var(--text-clr);'>Horizontal Partitioning</strong> or <strong>Sharding</strong></span>
 
 Each database is called a Shard.
 
