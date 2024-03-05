@@ -1,51 +1,51 @@
 {
-	"homePage": {
-		"banner": {
-			"job": "Web developer",
-			"description": "Two years ago, I finally decided to change career in IT and I really happy to do this in fuull time. My workd completemy chnaged since then",
-			"name": "Ghislain Genay"
-		},
-		"posts": {
-			"title": "My last posts",
-			"viewMore": "View more"
-		},
-		"technologies": {
-			"frontEnd": "Front-end",
-			"backEnd": "Back-end",
-			"database": "Miscellaneous"
-		},
-		"form": {
-			"title": "Contact me",
-			"legend": "Form",
-			"alert": {
-				"success": "Your email has been sent successfully",
-				"error": "An error occured while sending your email"
-			},
-			"emailInput": {
-				"label": "Email",
-				"placeholder": "Your email"
-			},
-			"messageInput": {
-				"label": "Message",
-				"placeholder": "Your message"
-			},
-			"subjectInput": {
-				"label": "Subject",
-				"placeholder": "Your subject"
-			},
-			"submit": "Send Email",
-			"error": {
-				"email": "Please enter a valid email",
-				"unvalidEmail": "The email is not valid",
-				"message": "Please enter a message",
-				"subject": "Please enter a subject",
-				"subjectMaxLength": "The subject must be less than 100 characters",
-				"messageMaxLength": "The message must be less than 1000 characters"
-			}
-		},
-		"buttons": {
-			"dashboard": "Go to Dashboard",
-			"contact": "Contact me"
-		}
-	}
+  "homePage": {
+    "banner": {
+      "job": "Web developer",
+      "description": "Two years ago, I finally decided to change career in IT and I really happy to do this in full time. My work completely changed since then",
+      "name": "Ghislain Genay"
+    },
+    "posts": {
+      "title": "My last posts",
+      "viewMore": "View more"
+    },
+    "technologies": {
+      "frontEnd": "Front-end",
+      "backEnd": "Back-end",
+      "database": "Miscellaneous"
+    },
+    "form": {
+      "title": "Contact me",
+      "legend": "Form",
+      "alert": {
+        "success": "Your email has been sent successfully",
+        "error": "An error occured while sending your email"
+      },
+      "emailInput": {
+        "label": "Email",
+        "placeholder": "Your email"
+      },
+      "messageInput": {
+        "label": "Message",
+        "placeholder": "Your message"
+      },
+      "subjectInput": {
+        "label": "Subject",
+        "placeholder": "Your subject"
+      },
+      "submit": "Send Email",
+      "error": {
+        "email": "Please enter a valid email",
+        "unvalidEmail": "The email is not valid",
+        "message": "Please enter a message",
+        "subject": "Please enter a subject",
+        "subjectMaxLength": "The subject must be less than 100 characters",
+        "messageMaxLength": "The message must be less than 1000 characters"
+      }
+    },
+    "buttons": {
+      "dashboard": "Go to Dashboard",
+      "contact": "Contact me"
+    }
+  }
 }
